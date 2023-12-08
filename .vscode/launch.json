@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/minseok/Library/CloudStorage/OneDrive-성균관대학교/SKKU/2nd_semester/자료구조개론/Project/code",
+      "program": "/Users/minseok/Library/CloudStorage/OneDrive-성균관대학교/SKKU/2nd_semester/자료구조개론/Project/code/build/Debug/outDebug"
+    }
+  ]
+}

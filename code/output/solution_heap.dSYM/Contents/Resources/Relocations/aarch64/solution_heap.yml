@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/minseok/Library/CloudStorage/OneDrive-성균관대학교/SKKU/2nd_semester/자료구조개론/Project/code/output/solution_heap"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initCustomerPriorityQueue, symObjAddr: 0x0, symBinAddr: 0x100003020, symSize: 0x58 }
+  - { offsetInCU: 0x144, offset: 0x144, size: 0x8, addend: 0x0, symName: _initCustomerPriorityQueue, symObjAddr: 0x0, symBinAddr: 0x100003020, symSize: 0x58 }
+  - { offsetInCU: 0x17A, offset: 0x17A, size: 0x8, addend: 0x0, symName: _customer_compareNodes, symObjAddr: 0x58, symBinAddr: 0x100003078, symSize: 0xD0 }
+  - { offsetInCU: 0x1B0, offset: 0x1B0, size: 0x8, addend: 0x0, symName: _customer_enqueue, symObjAddr: 0x128, symBinAddr: 0x100003148, symSize: 0x1B8 }
+  - { offsetInCU: 0x252, offset: 0x252, size: 0x8, addend: 0x0, symName: _customer_dequeue, symObjAddr: 0x2E0, symBinAddr: 0x100003300, symSize: 0x2BC }
+  - { offsetInCU: 0x306, offset: 0x306, size: 0x8, addend: 0x0, symName: _printCustomerPriorityQueue, symObjAddr: 0x59C, symBinAddr: 0x1000035BC, symSize: 0xE8 }
+  - { offsetInCU: 0x346, offset: 0x346, size: 0x8, addend: 0x0, symName: _initCounterPriorityQueue, symObjAddr: 0x684, symBinAddr: 0x1000036A4, symSize: 0xCC }
+  - { offsetInCU: 0x398, offset: 0x398, size: 0x8, addend: 0x0, symName: _counter_compareNodes, symObjAddr: 0x750, symBinAddr: 0x100003770, symSize: 0xD0 }
+  - { offsetInCU: 0x3CE, offset: 0x3CE, size: 0x8, addend: 0x0, symName: _counter_enqueue, symObjAddr: 0x820, symBinAddr: 0x100003840, symSize: 0x150 }
+  - { offsetInCU: 0x462, offset: 0x462, size: 0x8, addend: 0x0, symName: _counter_dequeue, symObjAddr: 0x970, symBinAddr: 0x100003990, symSize: 0x1F0 }
+  - { offsetInCU: 0x516, offset: 0x516, size: 0x8, addend: 0x0, symName: _printCounterPriorityQueue, symObjAddr: 0xB60, symBinAddr: 0x100003B80, symSize: 0xC0 }
+  - { offsetInCU: 0x556, offset: 0x556, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xC20, symBinAddr: 0x100003C40, symSize: 0x1BC }
+...

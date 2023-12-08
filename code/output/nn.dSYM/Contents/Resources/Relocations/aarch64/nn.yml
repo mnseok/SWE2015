@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/minseok/Library/CloudStorage/OneDrive-성균관대학교/SKKU/2nd_semester/자료구조개론/Project/code/output/nn"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E04, symSize: 0x130 }
+  - { offsetInCU: 0x65, offset: 0x65, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E04, symSize: 0x130 }
+...
